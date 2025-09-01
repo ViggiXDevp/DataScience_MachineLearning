@@ -67,10 +67,9 @@ pip install pandas ydata_profiling
 ## Submission Details
 
 - **GitHub Repository:** [https://github.com/ViggiXDevp/DataScience_MachineLearning](https://github.com/ViggiXDevp/DataScience_MachineLearning)  
-- **Hosted Demo Link:** *(If applicable, add demo URL here)*  
-- **Full Name:** Your Full Name  
-- **Email:** your.email@example.com  
-- **Registration Number:** Your Registration Number  
+- **Full Name:** G V VIGHNESH REDDY 
+- **Email:** gvvighneshreddy8612@gmail.com  
+- **Registration Number:** 24BAI10374 
 
 ---
 
