@@ -14,31 +14,42 @@ Task 2: Building a Scikit-learn Pipline including a suitable model with train, t
 ---
 
 ## ✅  Features Implemented
+Task 1  
 
 - Data cleaning and preprocessing with pandas  
 - Feature engineering to discover hidden patterns  
 - Multiple visualizations: bar charts, line charts, heatmaps  
 - Interactive HTML report generated using ydata_profiling  
 - Modular Python scripts for analysis and plotting  
-- Ready-to-run Jupyter Notebook for step-by-step execution   
+- Ready-to-run Jupyter Notebook for step-by-step execution     
 
+Task 2
+
+- Built a Scikit-learn pipeline including preprocessing, model training, testing, and evaluation with relevant metrics  
+- Applied appropriate machine learning models for crime pattern prediction   
+- Used train/test split and model validation techniques for robust evaluation 
 ---
 ## 📂 Project Structure
 ```
 |- Crime Data Project
-    |- Data Cleaning & Preprocessing
-        |- Handle missing data
-        |- Fix data types
-    |- Feature Engineering
-        |- Create time-based features
-        |- Aggregate crime counts
-    |- Visualization
-        |- Bar charts
-        |- Heatmaps
-        |- Line charts
-    |- Reports
-        |- ydata_profiling HTML report
-        |- Jupyter notebook
+    |- Data Cleaning & Preprocessing (Task 1)
+        |- Handle missing data  
+        |- Fix data types  
+    |- Feature Engineering (Task 1)
+        |- Create time-based features  
+        |- Aggregate crime counts  
+    |- Visualization (Task 1)
+        |- Bar charts  
+        |- Heatmaps  
+        |- Line charts  
+    |- ML Pipeline (Task 2)
+        |- Data preprocessing  
+        |- Model selection and training  
+        |- Model evaluation and testing  
+    |- Reports (Tasks 1 & 2)
+        |- ydata_profiling HTML report  
+        |- Jupyter notebooks  
+
 ```
 ---
 
@@ -67,10 +78,12 @@ pip install pandas ydata_profiling
 
 ## ▶️ Running the Project
 
-1. Open `CrimeData.ipynb` in Jupyter Notebook or Google Colab.  
-2. Execute the notebook cells sequentially to load data, perform cleaning, analysis, and generate visualizations.  
-3. Alternatively, run `main.py` for scripted preprocessing and plotting.  
-4. View the interactive report `CrimeData.html` for insights.  
+1. Open `CrimeData.ipynb` in Jupyter Notebook or Google Colab to run Task 1 for EDA and visualizations.  
+2. Execute the notebook cells sequentially to load data, clean, analyze, and generate visualizations.  
+3. Run `main.py` for scripted preprocessing, feature engineering, and plotting (Task 1).  
+4. Open and run `Crime Data Analysis.ipynb` for Task 2 to train, test, and evaluate the Scikit-learn pipeline.  
+5. Review model performance and insights generated from the machine learning pipeline.  
+6. View the interactive report `CrimeData.html` for exploratory analysis insights.  
 
 ---
 
@@ -86,7 +99,9 @@ You can also run this project interactively in Google Colab without any local se
 - Handled missing values and cleaned data for reliable analysis.  
 - Created feature engineering techniques to extract temporal trends.  
 - Used ydata_profiling to generate a detailed automated profiling report.  
-- Modularized scripts for ease of scalability and reusability.  
+- Modularized scripts for ease of scalability and reusability.
+- Developed and fine-tuned a Scikit-learn pipeline for crime prediction.  
+- Incorporated appropriate model selection and evaluation strategies for robust results   
 
 ---
 
