@@ -1,4 +1,4 @@
-# Crime Data EDA & Visualization Project
+# Crime Data EDA & Visualization Project 🧑‍💻📊📈
 
 ![Python](https://img.shields.io/badge/Python-3.7+-blue) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange.svg) ![License](https://img.shields.io/badge/License-MIT-green)
 
@@ -6,14 +6,14 @@ The Crime Data Analysis project aims on explore and analyse crime records throug
 
 ---
 
-## Selected Task
+## 📋 Selected Task
 
 Task 1: Exploratory Data Analysis (EDA) on crime data including cleaning, preprocessing, feature engineering and visualization.  
 Task 2: Building a Scikit-learn Pipline including a suitable model with train, test and evaluate using relevant metrics
 
 ---
 
-## Features Implemented
+## ✅  Features Implemented
 
 - Data cleaning and preprocessing with pandas  
 - Feature engineering to discover hidden patterns  
@@ -23,7 +23,7 @@ Task 2: Building a Scikit-learn Pipline including a suitable model with train, t
 - Ready-to-run Jupyter Notebook for step-by-step execution   
 
 ---
-## Doucment
+## 📂 Project Structure
 ```
 |- Crime Data Project
     |- Data Cleaning & Preprocessing
@@ -42,7 +42,7 @@ Task 2: Building a Scikit-learn Pipline including a suitable model with train, t
 ```
 ---
 
-## File Structure
+## 📁 File Structure
 
 - `Cleaned Crime Data Set.csv` – Raw crime dataset  
 - `CrimeData.ipynb` – Jupyter Notebook for cleaning, analysis, and visualization  
@@ -51,7 +51,7 @@ Task 2: Building a Scikit-learn Pipline including a suitable model with train, t
 
 ---
 
-## Installation and Setup
+## 🛠️ Installation and Setup
 
 Clone the repository and install required dependencies:
 ```
@@ -61,7 +61,7 @@ pip install pandas ydata_profiling
 ```
 ---
 
-## Running the Project
+## ▶️ Running the Project
 
 1. Open `CrimeData.ipynb` in Jupyter Notebook or Google Colab.  
 2. Execute the notebook cells sequentially to load data, perform cleaning, analysis, and generate visualizations.  
@@ -70,14 +70,14 @@ pip install pandas ydata_profiling
 
 ---
 
-## Google Colab Link  
+## 🌐 Google Colab Link  
 You can also run this project interactively in Google Colab without any local setup:
 
 [Crime Data EDA & Visualisation](https://colab.research.google.com/drive/1rwT2S8ERgeza5Up97Rss1mS-mrTl4PHY?usp=sharing)
 
 ---
 
-## Challenges & Creative Additions
+## 💡 Challenges & Creative Additions
 
 - Handled missing values and cleaned data for reliable analysis.  
 - Created feature engineering techniques to extract temporal trends.  
@@ -86,7 +86,7 @@ You can also run this project interactively in Google Colab without any local se
 
 ---
 
-## Submission Details
+## 🎓 Submission Details
 
 - **GitHub Repository:** [https://github.com/ViggiXDevp/DataScience_MachineLearning](https://github.com/ViggiXDevp/DataScience_MachineLearning)  
 - **Full Name:** G V VIGHNESH REDDY 
@@ -95,17 +95,16 @@ You can also run this project interactively in Google Colab without any local se
 
 ---
 
-## License
+## ⚖️ License
 
 This project is licensed under the MIT License.
 
 ---
 
-## Author & Contact
+## 🧑‍💻 Author & Contact
 
 **ViggiXDevp**  
-Email: gvvighneshreddy8612@gmail.com  
-GitHub: [https://github.com/ViggiXDevp](https://github.com/ViggiXDevp)  
-LinkedIn: https://www.linkedin.com/in/vighneshreddy
+✉️ Email: gvvighneshreddy8612@gmail.com  
+🐙 GitHub: [https://github.com/ViggiXDevp](https://github.com/ViggiXDevp)  
+🔗 LinkedIn: https://www.linkedin.com/in/vighneshreddy
 
----
