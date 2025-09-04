@@ -55,6 +55,13 @@ pip install pandas ydata_profiling
 
 ---
 
+## Google Colab Link  
+You can also run this project interactively in Google Colab without any local setup:
+
+[Open Crime Data EDA & Visualization Project in Google Colab](https://colab.research.google.com/drive/1rwT2S8ERgeza5Up97Rss1mS-mrTl4PHY?usp=sharing)
+
+---
+
 ## Challenges & Creative Additions
 
 - Handled missing values and cleaned data for reliable analysis.  
