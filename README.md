@@ -84,6 +84,6 @@ This project is licensed under the MIT License.
 **ViggiXDevp**  
 Email: gvvighneshreddy8612@gmail.com  
 GitHub: [https://github.com/ViggiXDevp](https://github.com/ViggiXDevp)  
-LinkedIn: (https://www.linkedin.com/in/vighneshreddy)
+LinkedIn: https://www.linkedin.com/in/vighneshreddy
 
 ---
