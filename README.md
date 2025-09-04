@@ -43,12 +43,16 @@ Task 2: Building a Scikit-learn Pipline including a suitable model with train, t
 ---
 
 ## 📁 File Structure
-
+Task 1:  
 - `Cleaned Crime Data Set.csv` – Raw crime dataset  
 - `CrimeData.ipynb` – Jupyter Notebook for cleaning, analysis, and visualization  
 - `CrimeData.html` – Exported interactive HTML report  
-- `main.py` – Python script for preprocessing, feature engineering, and plotting  
+- `main.py` – Python script for preprocessing, feature engineering, and plotting
+    
+Task 2:  
 
+- `Crime Data Analysis.ipynb` - Scikit-learn Pipline  
+- `data.csv` - Raw Crime dataset  
 ---
 
 ## 🛠️ Installation and Setup
