@@ -1,14 +1,15 @@
 # Crime Data EDA & Visualization Project
 
-![Python](https://img.shields.io/badge/Python-3.7+-blue) ![License](https://img.shields.io/badge/License-MIT-green)
+![Python](https://img.shields.io/badge/Python-3.7+-blue) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange.svg) ![License](https://img.shields.io/badge/License-MIT-green)
 
-This project performs an exploratory data analysis (EDA) and visualization on a crime dataset using Python, aiming to uncover patterns and insights to support crime prevention and resource allocation decisions.
+The Crime Data Analysis project aims on explore and analyse crime records through meaningful patterns. By performing thorough exploratory data analysis (EDA), data cleaning, data processing and feature engineering, the project seeks to identify trends and patterns related to time, locations and crime patterns. Thorough Visualisation through bar graphs, histograms and heatmaps, it provides insights which are helpful for law enforcement agencies in decision making and resource allocation.
 
 ---
 
 ## Selected Task
 
-Task 1: Exploratory Data Analysis (EDA) on crime data including cleaning, preprocessing, feature engineering and visualization.
+Task 1: Exploratory Data Analysis (EDA) on crime data including cleaning, preprocessing, feature engineering and visualization.  
+Task 2: Building a Scikit-learn Pipline including a suitable model with train, test and evaluate using relevant metrics
 
 ---
 
@@ -19,12 +20,26 @@ Task 1: Exploratory Data Analysis (EDA) on crime data including cleaning, prepro
 - Multiple visualizations: bar charts, line charts, heatmaps  
 - Interactive HTML report generated using ydata_profiling  
 - Modular Python scripts for analysis and plotting  
-- Ready-to-run Jupyter Notebook for step-by-step execution  
+- Ready-to-run Jupyter Notebook for step-by-step execution   
 
-*Bonus Features:*  
-- Automated profiling report with ydata_profiling for comprehensive EDA  
-- Exported interactive visualization report as an HTML file  
-
+---
+## Doucment
+```
+|- Crime Data Project
+    |- Data Cleaning & Preprocessing
+        |- Handle missing data
+        |- Fix data types
+    |- Feature Engineering
+        |- Create time-based features
+        |- Aggregate crime counts
+    |- Visualization
+        |- Bar charts
+        |- Heatmaps
+        |- Line charts
+    |- Reports
+        |- ydata_profiling HTML report
+        |- Jupyter notebook
+```
 ---
 
 ## File Structure
@@ -39,11 +54,11 @@ Task 1: Exploratory Data Analysis (EDA) on crime data including cleaning, prepro
 ## Installation and Setup
 
 Clone the repository and install required dependencies:
-
-git clone https://github.com/ViggiXDevp/DataScience_MachineLearning.git
-cd DataScience_MachineLearning
-pip install pandas ydata_profiling
-
+```
+git clone https://github.com/ViggiXDevp/DataScience_MachineLearning.git  
+cd DataScience_MachineLearning  
+pip install pandas ydata_profiling  
+```
 ---
 
 ## Running the Project
@@ -58,7 +73,7 @@ pip install pandas ydata_profiling
 ## Google Colab Link  
 You can also run this project interactively in Google Colab without any local setup:
 
-[Open Crime Data EDA & Visualization Project in Google Colab](https://colab.research.google.com/drive/1rwT2S8ERgeza5Up97Rss1mS-mrTl4PHY?usp=sharing)
+[Crime Data EDA & Visualisation](https://colab.research.google.com/drive/1rwT2S8ERgeza5Up97Rss1mS-mrTl4PHY?usp=sharing)
 
 ---
 
